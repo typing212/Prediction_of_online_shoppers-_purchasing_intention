@@ -11,6 +11,7 @@ The dataset consists of 12,330 sessions. Each session was taken from a different
 - Imbalanced dataset - resample
 - 17 original features and 7 created features.
 - No missing values
+![image](https://user-images.githubusercontent.com/92670749/177030616-baa2a137-682d-40b5-be76-1b61deea8db9.png)
 
 
 ## Insights
